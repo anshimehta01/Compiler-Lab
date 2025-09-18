@@ -1,7 +1,7 @@
 # Compiler-Lab
 
 This repository contains a complete set of **Compiler Design Lab experiments** implemented in **C language**.  
-The experiments cover **Lex/Yacc tools, parsing techniques, and grammar analysis**, as part of the Compiler Design course (3rd Year B.Tech CSE).
+The experiments cover **Lex/Yacc tools, parsing techniques, and grammar analysis**, as part of the Compiler Design course.
 
 ---
 
